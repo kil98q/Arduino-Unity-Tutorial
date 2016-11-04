@@ -1,2 +1,9 @@
 # Arduino-Unity-Tutorial
-What the title says
+
+1) UPLOAD THE .INO TO THE ARDUINO INSIDE THE ARDUINOCODE MAP
+2) THIS LINK IS THE WIRING SCHEMATIC WIRE THE ARDUINO THIS WAY
+https://www.google.nl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiF0sr-1o7QAhXTyRoKHYf8C6AQjRwIBw&url=https%3A%2F%2Fbrainy-bits.com%2Ftutorials%2Farduino-joystick-tutorial%2F&psig=AFQjCNHXnkw_9oc4fpBrH97W83aWzQGkVQ&ust=1478334412603789
+3) START THE UNITY PROJECT
+4) SELECT THE CUBE
+5) CHANGE THE COM2 PORT FROM THE SCRIPT TO THE COM PORT FROM THE ARDUINO
+6) START THE UNITY PROJECT AND BE AMAZED
